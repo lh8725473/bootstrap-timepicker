@@ -4,7 +4,7 @@
     "description": "A timepicker component for Twitter Bootstrap",
     "repository": {
       "type": "git",
-      "url": "https://github.com/jdewit/bootstrap-timepicker"
+      "url": "https://github.com/lh8725473/bootstrap-timepicker"
     },
     "main": [
         "js/bootstrap-timepicker.js",
